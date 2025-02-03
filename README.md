@@ -1,7 +1,7 @@
 # 🚀 LeetCode Solutions by Aabid Ali
 
 This repository contains my solutions to various LeetCode problems.  
-I have categorized them based on difficulty and topics.
+I have categorized them based on difficulty and topics. I try to code as clean as possible. there are a lot of comments in every question for better understanding.
 
 ## 📌 My LeetCode Profile:
 🔗 https://leetcode.com/u/aabidAli
